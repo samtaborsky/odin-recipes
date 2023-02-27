@@ -1,0 +1,56 @@
+body {
+    background-color: #fccffa;
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+button {
+    color: black;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+h1,
+h2 {
+    font-weight: bold;
+}
+
+img {
+    border: 2px solid black;
+}
+
+div button {
+    background-color: #f728ee;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.back-button {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.center-img {
+    text-align: center;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.main {
+    position: fixed;
+}
+
+.margin-fix {
+    margin-bottom: 3px;
+}
